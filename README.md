@@ -1,4 +1,4 @@
-# UDR-Tree
+# Maram-Tree
 
 Implementation of "A coordination-free, convergent, and safe replicated tree"
 
